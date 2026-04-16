@@ -1,7 +1,7 @@
-# ACXIOMI Library Management System
+# ACXIOM Library Management System
 
 ## Introduction
-ACXIOMI Library Management System is an online application built using Python and Gradio. The project manages library management activities like issuance of books, returning of books, availability checking, and fines.
+ACXIOM Library Management System is an online application built using Python and Gradio. The project manages library management activities like issuance of books, returning of books, availability checking, and fines.
 
 Hugging Face Spaces technology is used to deploy this application online.
 
